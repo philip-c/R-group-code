@@ -16,3 +16,4 @@ Date       | Presenter          | Topic
 2017-05-23 | Sebastian Campbell | [Using version control with Rstudio](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sebastian-c/r-group-code/tree/master/2017-05-23)
 2017-06-06 | Philip Chan        | [Functions in R](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sebastian-c/r-group-code/tree/master/2017-06-06)
 2017-06-20 | Sebastian Campbell | [Presentations in R](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sebastian-c/r-group-code/tree/master/2017-06-20)
+2018-02-28 | Philip Chan        | [The `apply()` family](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-02-28)
