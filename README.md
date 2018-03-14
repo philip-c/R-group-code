@@ -17,3 +17,4 @@ This repository has all the code that presenters have used for R Group meetings.
 2017-06-06 | Philip Chan        | [Functions in R](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sebastian-c/r-group-code/tree/master/2017-06-06)
 2017-06-20 | Sebastian Campbell | [Presentations in R](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sebastian-c/r-group-code/tree/master/2017-06-20)
 2018-02-28 | Philip Chan        | [The `apply()` family](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-02-28)
+2018-03-14 | Philip Chan        | [Data structure and subsetting, part 1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-03-14)
