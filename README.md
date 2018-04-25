@@ -20,7 +20,7 @@ This repository has all the code that presenters have used for R Group meetings.
 2018-03-14 | Philip Chan        | [Data structure and subsetting, part 1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-03-14)
 2018-03-28 | Philip Chan        | [Data structure and subsetting, part 2](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-03-27/2018-03-28)
 2018-04-18 | Philip Chan        | [Introduction to `broom`](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-04-18)
-2018-04-25 | Aliou Mballo       | [Linear regression in R]
+2018-04-25 | Aliou Mballo       | [Linear regression in R](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-04-25)
 2018-05-09 | Alberto Munisso    | [TBD]
 2018-05-23 | Sumeda Siriwardena | [Introduction to `Shiny`]
 2018-06-06 | Alicia English     | [Panel data modelling in R]
