@@ -23,7 +23,7 @@ This repository has all the code that presenters have used for R Group meetings.
 2018-04-25 | Aliou Mballo       | [Linear regression in R](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-04-25)
 2018-05-09 | Alberto Munisso    | [Financial time series modelling](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-05-09)
 2018-05-30 | Alicia English     | [Panel data modelling in R]
-2018-06-06 | Sumeda Siriwardena | [Introduction to `Shiny`]
+2018-06-06 | Sumeda Siriwardena | [Introduction to `Shiny`](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/philip-c/R-group-code/tree/master/2018-06-20)
 2018-06-20 | Nathan Wanner      | [R Markdown/ggplot2]
 2018-07-04 | Philip Chan        | [TBD]
 
